@@ -7,3 +7,9 @@
     * added alt attributes to all images
     * added a title to the background image
     * inserted comments to HTML and CSS to correlate and organize code
+    
+    https://github.com/rayna-v/rayna-v.github.io
+
+    https://rayna-v.github.io/
+    
+    
