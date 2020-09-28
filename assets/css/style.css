@@ -6,6 +6,7 @@
 
 body {
   background-color: #d9dcd6;
+  font-size: 16px;
 }
 
 /* header */
@@ -51,11 +52,7 @@ body {
     text-decoration: none;
   }
 
-  p {
-    font-size: 16px;
-  }
-
-/* the main image of the site */
+/* the background image of the site */
 
 .main-image {
   height: 800px;
@@ -66,7 +63,7 @@ body {
   background-position: center;
 }
 
-/* the main information content of the site */
+/* the main content of the page */
 
 .main-content {
   width: 75%;
@@ -128,6 +125,7 @@ aside {
   max-width: 150px;
 }
 
+/* footer */
 .footer {
   padding: 30px;
   clear: both;
